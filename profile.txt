@@ -1,0 +1,7 @@
+ชื่อ-สกุล: ไชยภัทร โกละกะ / เจตดิลก เอี่ยมสุวรรณ
+ชั้น: ปวส 1 ทส 1
+แผนกวิชา: สารสนเทศ
+เลขที่: 005 / 039
+วันที่สอบ: 17/9/2569
+ชื่อ Repository: devops-final-exam-student
+ลิงก์ GitHub Repository: https://github.com/chaiyaphat01234-art/devops-final-exam-student.git 
